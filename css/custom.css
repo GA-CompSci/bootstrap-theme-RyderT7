@@ -1,6 +1,6 @@
 /***** 
 COLOR CHEAT SHEET 
-
+https://coolors.co/palette/03045e-0077b6-00b4d8-90e0ef-caf0f8
 
 *****/
 
@@ -9,9 +9,17 @@ COLOR CHEAT SHEET
 /******* FONTS ******/
 /********************/
 body, p {
-
+    font-family: font-family: "Oswald", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-
+    font-family: "Handjet", sans-serif;
 }
+
+/********************/
+/******* HERO ******/
+/********************/
+header.masthead{
+background:url(../img/Drag_photo.jpeg);
+}
+
